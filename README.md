@@ -1,4 +1,9 @@
 ### Hi there 👋
+### Nice to meet you
+### I'm Raufu Kassim Kiwala
+### I’m interested in learning new things and meeting new people.
+### I’m currently learning Data Analytics 
+### I’m looking to collaborate on Data analytics projects
 
 <!--
 **raufukiwala/raufukiwala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
